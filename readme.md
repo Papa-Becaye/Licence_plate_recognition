@@ -1,22 +1,4 @@
 ---
-title: "Rapport de Projet : Système de Reconnaissance Automatique de Plaques d'Immatriculation"
-author: "[Votre Nom]"
-date: "[Date]"
-institution: "[Votre École/Université]"
----
-
-# Système de Reconnaissance Automatique de Plaques d'Immatriculation
-
-## Utilisant YOLOv8 et EasyOCR
-
----
-
-**Réalisé par:** [Votre Nom]  
-**Encadré par:** [Nom de l'Encadrant]  
-**Date:** [Date de Soumission]  
-**Institution:** [Nom de l'École/Université]
-
----
 
 ## Table des Matières
 
